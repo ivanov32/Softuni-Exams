@@ -1,0 +1,14 @@
+D:\programirane\oop\tests\finalTest\seconedTask\bin\Debug\netcoreapp3.1\seconedTask.exe
+D:\programirane\oop\tests\finalTest\seconedTask\bin\Debug\netcoreapp3.1\seconedTask.deps.json
+D:\programirane\oop\tests\finalTest\seconedTask\bin\Debug\netcoreapp3.1\seconedTask.runtimeconfig.json
+D:\programirane\oop\tests\finalTest\seconedTask\bin\Debug\netcoreapp3.1\seconedTask.runtimeconfig.dev.json
+D:\programirane\oop\tests\finalTest\seconedTask\bin\Debug\netcoreapp3.1\seconedTask.dll
+D:\programirane\oop\tests\finalTest\seconedTask\bin\Debug\netcoreapp3.1\seconedTask.pdb
+D:\programirane\oop\tests\finalTest\seconedTask\obj\Debug\netcoreapp3.1\seconedTask.csproj.AssemblyReference.cache
+D:\programirane\oop\tests\finalTest\seconedTask\obj\Debug\netcoreapp3.1\seconedTask.GeneratedMSBuildEditorConfig.editorconfig
+D:\programirane\oop\tests\finalTest\seconedTask\obj\Debug\netcoreapp3.1\seconedTask.AssemblyInfoInputs.cache
+D:\programirane\oop\tests\finalTest\seconedTask\obj\Debug\netcoreapp3.1\seconedTask.AssemblyInfo.cs
+D:\programirane\oop\tests\finalTest\seconedTask\obj\Debug\netcoreapp3.1\seconedTask.csproj.CoreCompileInputs.cache
+D:\programirane\oop\tests\finalTest\seconedTask\obj\Debug\netcoreapp3.1\seconedTask.dll
+D:\programirane\oop\tests\finalTest\seconedTask\obj\Debug\netcoreapp3.1\seconedTask.pdb
+D:\programirane\oop\tests\finalTest\seconedTask\obj\Debug\netcoreapp3.1\seconedTask.genruntimeconfig.cache

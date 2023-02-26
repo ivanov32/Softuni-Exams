@@ -1,0 +1,14 @@
+D:\programirane\oop\tests\finalTest\shoeStore\bin\Debug\netcoreapp3.1\ShoeStore.exe
+D:\programirane\oop\tests\finalTest\shoeStore\bin\Debug\netcoreapp3.1\ShoeStore.deps.json
+D:\programirane\oop\tests\finalTest\shoeStore\bin\Debug\netcoreapp3.1\ShoeStore.runtimeconfig.json
+D:\programirane\oop\tests\finalTest\shoeStore\bin\Debug\netcoreapp3.1\ShoeStore.runtimeconfig.dev.json
+D:\programirane\oop\tests\finalTest\shoeStore\bin\Debug\netcoreapp3.1\ShoeStore.dll
+D:\programirane\oop\tests\finalTest\shoeStore\bin\Debug\netcoreapp3.1\ShoeStore.pdb
+D:\programirane\oop\tests\finalTest\shoeStore\obj\Debug\netcoreapp3.1\ShoeStore.csproj.AssemblyReference.cache
+D:\programirane\oop\tests\finalTest\shoeStore\obj\Debug\netcoreapp3.1\ShoeStore.GeneratedMSBuildEditorConfig.editorconfig
+D:\programirane\oop\tests\finalTest\shoeStore\obj\Debug\netcoreapp3.1\ShoeStore.AssemblyInfoInputs.cache
+D:\programirane\oop\tests\finalTest\shoeStore\obj\Debug\netcoreapp3.1\ShoeStore.AssemblyInfo.cs
+D:\programirane\oop\tests\finalTest\shoeStore\obj\Debug\netcoreapp3.1\ShoeStore.csproj.CoreCompileInputs.cache
+D:\programirane\oop\tests\finalTest\shoeStore\obj\Debug\netcoreapp3.1\ShoeStore.dll
+D:\programirane\oop\tests\finalTest\shoeStore\obj\Debug\netcoreapp3.1\ShoeStore.pdb
+D:\programirane\oop\tests\finalTest\shoeStore\obj\Debug\netcoreapp3.1\ShoeStore.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+D:\programirane\oop\tests\finalTest\finalTest\bin\Debug\netcoreapp3.1\finalTest.exe
+D:\programirane\oop\tests\finalTest\finalTest\bin\Debug\netcoreapp3.1\finalTest.deps.json
+D:\programirane\oop\tests\finalTest\finalTest\bin\Debug\netcoreapp3.1\finalTest.runtimeconfig.json
+D:\programirane\oop\tests\finalTest\finalTest\bin\Debug\netcoreapp3.1\finalTest.runtimeconfig.dev.json
+D:\programirane\oop\tests\finalTest\finalTest\bin\Debug\netcoreapp3.1\finalTest.dll
+D:\programirane\oop\tests\finalTest\finalTest\bin\Debug\netcoreapp3.1\finalTest.pdb
+D:\programirane\oop\tests\finalTest\finalTest\obj\Debug\netcoreapp3.1\finalTest.csproj.AssemblyReference.cache
+D:\programirane\oop\tests\finalTest\finalTest\obj\Debug\netcoreapp3.1\finalTest.GeneratedMSBuildEditorConfig.editorconfig
+D:\programirane\oop\tests\finalTest\finalTest\obj\Debug\netcoreapp3.1\finalTest.AssemblyInfoInputs.cache
+D:\programirane\oop\tests\finalTest\finalTest\obj\Debug\netcoreapp3.1\finalTest.AssemblyInfo.cs
+D:\programirane\oop\tests\finalTest\finalTest\obj\Debug\netcoreapp3.1\finalTest.csproj.CoreCompileInputs.cache
+D:\programirane\oop\tests\finalTest\finalTest\obj\Debug\netcoreapp3.1\finalTest.dll
+D:\programirane\oop\tests\finalTest\finalTest\obj\Debug\netcoreapp3.1\finalTest.pdb
+D:\programirane\oop\tests\finalTest\finalTest\obj\Debug\netcoreapp3.1\finalTest.genruntimeconfig.cache
